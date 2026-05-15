@@ -2,6 +2,10 @@
 
 # Hi there, I'm Aditi Yadav 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DSA+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Building+Projects+That+Matter" />
+</p>
+
 ### Full Stack Developer · DSA Enthusiast · BTech CSE
 
 _"Building products that matter."_
@@ -9,13 +13,15 @@ _"Building products that matter."_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-yadav04/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **3rd year BTech Computer Science student** with a genuine passion for building full-stack web applications from scratch. I care deeply about writing clean, purposeful code that solves real problems — not just completing assignments.
+I'm a **Full Stack Developer focused on scalable web applications and problem solving.
+Currently pursuing BTech in Computer Science.** with a genuine passion for building full-stack web applications from scratch. I care deeply about writing clean, purposeful code that solves real problems — not just completing assignments.
 
 Right now, I'm:
 
@@ -67,7 +73,7 @@ A full-stack platform that simulates real job interviews. Users select a job rol
 
 `React` `Node.js` `MongoDB` `Express` `AI/NLP`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/alumni_network_platform.git)
 
 ---
 
@@ -79,7 +85,7 @@ A complete job portal where employers can post listings and candidates can apply
 
 `Next.js` `Express.js` `PostgreSQL` `JWT Auth` `REST API`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/job_board.git)
 
 ---
 
@@ -91,7 +97,7 @@ A social networking platform built for colleges — where students connect with 
 
 `React` `Node.js` `MongoDB` `Socket.io` `Express`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/alumni_network_platform.git)
 
 ---
 
@@ -103,7 +109,9 @@ A productivity app with task categorization, deadline tracking, priority levels,
 
 `React` `Tailwind CSS` `LocalStorage`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/To_Do_List.git)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://aditiyadavz.github.io/To_Do_List/)
 
 ---
 
@@ -116,6 +124,8 @@ A productivity app with task categorization, deadline tracking, priority levels,
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiyadavz&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=6c63ff&text_color=e2e2f0)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aditiyadavz&theme=tokyonight&hide_border=true&background=050510&ring=6c63ff&fire=ff6b9d&currStreakLabel=00d4ff)
+
+![snake gif](https://github.com/aditiyadavz/aditiyadavz/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
