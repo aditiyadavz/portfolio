@@ -139,6 +139,8 @@ I believe strong fundamentals are what separate good developers from great ones.
 
 ## 🗺️ My Journey
 
+<div align="center">
+
 ```
 Started with HTML, CSS, JavaScript
 Learning React
@@ -148,6 +150,8 @@ Building AI Interview Platform · Most complex project yet
 Exploring Docker, DevOps, System Design, AI APIs
 Targeting top internships & placements 🎯
 ```
+
+</div>
 
 ---
 
