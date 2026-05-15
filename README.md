@@ -11,7 +11,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditiyadavz&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
