@@ -1,227 +1,172 @@
-# 🚀 Dev Portfolio 2026
+<div align="center">
 
-A world-class, fully responsive developer portfolio built with React + Vite + Tailwind CSS + Framer Motion.
+# Hi there, I'm Aditi Yadav 👋
 
----
+### Full Stack Developer · React Enthusiast · BTech CSE '26
 
-## ✨ Features
+*"Building products that matter."*
 
-- Custom animated cursor with ring effect
-- Preloader animation
-- Scroll progress indicator
-- Animated background blobs + grid
-- Sticky navbar with active section tracking
-- Typewriter effect for rotating roles
-- Animated stat counters (About section)
-- Skill progress bars with animations
-- Premium project cards with glow effects
-- Animated vertical timeline (Journey)
-- DSA heatmap-style grid (Coding section)
-- Service cards with hover effects
-- Testimonial cards
-- Contact form with toast notifications
-- Animated footer with back-to-top
-- Fully mobile responsive
-- Dark theme throughout
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-yadav04/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aditiyadavz&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 📁 Folder Structure
+## 👩‍💻 About Me
 
-```
-portfolio/
-├── public/
-│   ├── favicon.svg
-│   └── resume.pdf          ← Add your resume here!
-├── src/
-│   ├── components/
-│   │   ├── Background.jsx
-│   │   ├── CustomCursor.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Preloader.jsx
-│   │   ├── ScrollProgress.jsx
-│   │   └── SectionWrapper.jsx
-│   ├── sections/
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Journey.jsx
-│   │   ├── Coding.jsx
-│   │   ├── Services.jsx
-│   │   ├── Testimonials.jsx
-│   │   └── Contact.jsx
-│   ├── data/
-│   │   └── index.js        ← All your content lives here!
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── vite.config.js
-```
+I'm a **3rd year BTech Computer Science student** with a genuine passion for building full-stack web applications from scratch. I care deeply about writing clean, purposeful code that solves real problems — not just completing assignments.
+
+Right now, I'm:
+
+- 🔨 Building end-to-end products with **React, Node.js, and MongoDB**
+- 📚 Grinding **Data Structures & Algorithms** on LeetCode daily
+- 🌱 Exploring **DevOps, Docker, and AI-powered development**
+- 🎯 Actively targeting **2025–26 internships and placements**
+
+I believe the best developers build things people actually use. Every project I work on starts with a real problem and ends with a working product.
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ Tech Stack
 
-### 1. Prerequisites
-- Node.js v18+ installed
-- npm or yarn
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 2. Install dependencies
-```bash
-cd portfolio
-npm install
-```
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 3. Personalize your content
-Open `src/data/index.js` and update:
-- `personalInfo` — your name, email, GitHub, LinkedIn, LeetCode links
-- `stats` — your actual project/DSA counts
-- `projects` — add your GitHub repo links
-- `timeline` — adjust dates to your story
-- `codingStats` — your actual platform stats
-- `testimonials` — real feedback or remove this section
-
-### 4. Add your resume
-Place your resume PDF at `public/resume.pdf`
-
-### 5. Add your profile photo (optional)
-Place it at `public/avatar.jpg` and update Hero.jsx to show it
-
-### 6. Run locally
-```bash
-npm run dev
-```
-Open http://localhost:5173
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📧 Contact Form Setup
+## 🚀 Featured Projects
 
-The form is ready — just add your EmailJS credentials:
+### 🎙️ AI Interview Platform
+> *Voice-based mock interviews with AI-powered feedback and performance analytics*
 
-### Option A: EmailJS (recommended)
-1. Go to https://emailjs.com — create free account
-2. Create a service + email template
-3. In `src/sections/Contact.jsx`, replace the mock timeout with:
-```js
-import emailjs from '@emailjs/browser';
+A full-stack platform that simulates real job interviews. Users select a job role, answer voice-based questions, and receive instant AI feedback on their responses — along with a detailed scorecard and interview history to track improvement over time.
 
-await emailjs.send(
-  'YOUR_SERVICE_ID',
-  'YOUR_TEMPLATE_ID',
-  { from_name: form.name, from_email: form.email, subject: form.subject, message: form.message },
-  'YOUR_PUBLIC_KEY'
-);
-```
+**What makes it different:** It doesn't just quiz you — it evaluates *how* you answer, giving feedback on clarity, relevance, and confidence.
 
-### Option B: Formspree
-1. Go to https://formspree.io — create free account
-2. Get your form endpoint
-3. Change the form action to POST to your Formspree URL
+`React` `Node.js` `MongoDB` `Express` `AI/NLP`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 
 ---
 
-## 🚀 Deployment
+### 💼 Job Board Platform
+> *Full-stack job marketplace with employer and candidate dashboards*
 
-### Vercel (recommended — free, fast)
-```bash
-npm install -g vercel
-npm run build
-vercel
+A complete job portal where employers can post listings and candidates can apply, filter by role/location/salary, and track all their applications in one place. Built with JWT authentication, separate role-based dashboards, and a clean, fast UI.
+
+`Next.js` `Express.js` `PostgreSQL` `JWT Auth` `REST API`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+
+---
+
+### 🎓 Alumni Network Portal
+> *Community platform connecting students with alumni for mentorship and referrals*
+
+A social networking platform built for colleges — where students connect with alumni for guidance, referrals, and opportunities. Features include profile pages, connection requests, a live opportunity feed, and real-time messaging.
+
+`React` `Node.js` `MongoDB` `Socket.io` `Express`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+
+---
+
+### ✅ Smart To-Do App
+> *Feature-rich task manager with priorities, categories, and streak tracking*
+
+A productivity app with task categorization, deadline tracking, priority levels, and streak history — all persisted locally. Focused on a minimal, distraction-free UI.
+
+`React` `Tailwind CSS` `LocalStorage`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditiyadavz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=6c63ff&icon_color=00d4ff&text_color=e2e2f0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiyadavz&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=6c63ff&text_color=e2e2f0)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aditiyadavz&theme=tokyonight&hide_border=true&background=050510&ring=6c63ff&fire=ff6b9d&currStreakLabel=00d4ff)
+
+</div>
+
+---
+
+## 🧠 DSA & Problem Solving
+
+I believe strong fundamentals are what separate good developers from great ones. I solve problems consistently across platforms:
+
+| Platform | Problems Solved | Focus Areas |
+|----------|----------------|-------------|
+| 🟡 LeetCode | 200+ | Arrays, Trees, Graphs, DP |
+| 🟢 GeeksForGeeks | 150+ | Core CS, Competitive |
+| 🐙 GitHub | 500+ commits | Real projects, daily practice |
+
+[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
+
+---
+
+## 🗺️ My Journey
+
 ```
-Or connect your GitHub repo to https://vercel.com for auto-deploy.
-
-### Netlify
-```bash
-npm run build
-# Drag the dist/ folder to https://app.netlify.com/drop
-```
-
-### GitHub Pages
-```bash
-npm install --save-dev gh-pages
-# Add to package.json scripts: "deploy": "gh-pages -d dist"
-npm run build && npm run deploy
+2022  →  Started with HTML, CSS, JavaScript
+2023  →  Learned React · Built first SPAs
+2023  →  Picked up Node.js + Express · First full-stack app (Job Board)
+2024  →  Started grinding DSA seriously on LeetCode
+2024  →  Built AI Interview Platform · Most complex project yet
+2025  →  Exploring Docker, DevOps, System Design, AI APIs
+2026  →  Targeting top internships & placements 🎯
 ```
 
 ---
 
-## 🎨 Customization Tips
+## 🤝 Let's Connect
 
-### Change accent colors
-In `tailwind.config.js`:
-```js
-accent: "#6c63ff",   // purple — main
-accent2: "#00d4ff",  // cyan — secondary
-accent3: "#ff6b9d",  // pink — tertiary
-```
+I'm always open to interesting conversations, collaborations, and opportunities. If you're a recruiter, a fellow developer, or someone with a cool project idea — reach out.
 
-### Add a new section
-1. Create `src/sections/YourSection.jsx`
-2. Import and use `SectionWrapper` + `SectionHeader` from `components/SectionWrapper.jsx`
-3. Import and add it to `App.jsx`
-4. Add a nav link in `components/Navbar.jsx`
+<div align="center">
 
-### Add live project links
-In `src/data/index.js`, update `live:` field in each project from `null` to the URL.
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-yadav04/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
+
+*📍 India · Open to remote internships and on/off campus placements*
+
+</div>
 
 ---
 
-## 📦 Dependencies
+<div align="center">
 
-| Package | Purpose |
-|---|---|
-| react + react-dom | Core framework |
-| vite + @vitejs/plugin-react | Build tool |
-| tailwindcss | Utility CSS |
-| framer-motion | Animations |
-| react-icons | Icons (FI, HI sets) |
-| react-type-animation | Typewriter effect |
-| react-intersection-observer | Scroll-triggered animations |
-| react-countup | Animated number counters |
-| @emailjs/browser | Contact form emails |
-| react-hot-toast | Toast notifications |
-| @studio-freight/lenis | Smooth scroll (optional) |
+*If you find any of my projects useful or interesting, a ⭐ on the repo means a lot!*
 
----
-
-## 🔥 Performance Tips
-
-- Images: Use WebP format, compress before adding
-- Fonts: Already using `display=swap` for non-blocking load
-- Lazy load: Add `loading="lazy"` to any `<img>` tags
-- Bundle: Run `npm run build` and check bundle size with `npx vite-bundle-visualizer`
-
----
-
-## 📱 Responsive Breakpoints
-
-| Breakpoint | Width |
-|---|---|
-| Mobile | < 768px |
-| Tablet | 768px – 1024px |
-| Desktop | > 1024px |
-
-Custom cursor and floating labels are hidden on mobile automatically.
-
----
-
-## 💡 What to do next
-
-- [ ] Replace "Your Name" everywhere with your real name
-- [ ] Add your GitHub repo URLs in `data/index.js`
-- [ ] Drop your `resume.pdf` in the `public/` folder
-- [ ] Set up EmailJS for the contact form
-- [ ] Deploy to Vercel and share the link!
-- [ ] Add the portfolio URL to your LinkedIn and GitHub bio
-- [ ] Create a screen recording of AI Interview Platform and embed it
-
----
-
-Built with ❤️ for getting that internship in 2026.
+</div>
