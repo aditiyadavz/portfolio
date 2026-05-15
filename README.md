@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aditi Yadav 👋
 
-### Full Stack Developer · React Enthusiast · BTech CSE '26
+### Full Stack Developer · DSA Enthusiast · BTech CSE
 
 _"Building products that matter."_
 
@@ -10,12 +10,6 @@ _"Building products that matter."_
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 76a7a46 (README.md)
-</div>
 
 ---
 
