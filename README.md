@@ -4,14 +4,17 @@
 
 ### Full Stack Developer · React Enthusiast · BTech CSE '26
 
-*"Building products that matter."*
+_"Building products that matter."_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-yadav04/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 76a7a46 (README.md)
 </div>
 
 ---
@@ -25,7 +28,7 @@ Right now, I'm:
 - 🔨 Building end-to-end products with **React, Node.js, and MongoDB**
 - 📚 Grinding **Data Structures & Algorithms** on LeetCode daily
 - 🌱 Exploring **DevOps, Docker, and AI-powered development**
-- 🎯 Actively targeting **2025–26 internships and placements**
+- 🎯 Actively targeting **2026–27 internships and placements**
 
 I believe the best developers build things people actually use. Every project I work on starts with a real problem and ends with a working product.
 
@@ -61,11 +64,12 @@ I believe the best developers build things people actually use. Every project I 
 ## 🚀 Featured Projects
 
 ### 🎙️ AI Interview Platform
-> *Voice-based mock interviews with AI-powered feedback and performance analytics*
+
+> _Voice-based mock interviews with AI-powered feedback and performance analytics_
 
 A full-stack platform that simulates real job interviews. Users select a job role, answer voice-based questions, and receive instant AI feedback on their responses — along with a detailed scorecard and interview history to track improvement over time.
 
-**What makes it different:** It doesn't just quiz you — it evaluates *how* you answer, giving feedback on clarity, relevance, and confidence.
+**What makes it different:** It doesn't just quiz you — it evaluates _how_ you answer, giving feedback on clarity, relevance, and confidence.
 
 `React` `Node.js` `MongoDB` `Express` `AI/NLP`
 
@@ -74,7 +78,8 @@ A full-stack platform that simulates real job interviews. Users select a job rol
 ---
 
 ### 💼 Job Board Platform
-> *Full-stack job marketplace with employer and candidate dashboards*
+
+> _Full-stack job marketplace with employer and candidate dashboards_
 
 A complete job portal where employers can post listings and candidates can apply, filter by role/location/salary, and track all their applications in one place. Built with JWT authentication, separate role-based dashboards, and a clean, fast UI.
 
@@ -85,7 +90,8 @@ A complete job portal where employers can post listings and candidates can apply
 ---
 
 ### 🎓 Alumni Network Portal
-> *Community platform connecting students with alumni for mentorship and referrals*
+
+> _Community platform connecting students with alumni for mentorship and referrals_
 
 A social networking platform built for colleges — where students connect with alumni for guidance, referrals, and opportunities. Features include profile pages, connection requests, a live opportunity feed, and real-time messaging.
 
@@ -96,7 +102,8 @@ A social networking platform built for colleges — where students connect with 
 ---
 
 ### ✅ Smart To-Do App
-> *Feature-rich task manager with priorities, categories, and streak tracking*
+
+> _Feature-rich task manager with priorities, categories, and streak tracking_
 
 A productivity app with task categorization, deadline tracking, priority levels, and streak history — all persisted locally. Focused on a minimal, distraction-free UI.
 
@@ -124,26 +131,28 @@ A productivity app with task categorization, deadline tracking, priority levels,
 
 I believe strong fundamentals are what separate good developers from great ones. I solve problems consistently across platforms:
 
-| Platform | Problems Solved | Focus Areas |
-|----------|----------------|-------------|
-| 🟡 LeetCode | 200+ | Arrays, Trees, Graphs, DP |
-| 🟢 GeeksForGeeks | 150+ | Core CS, Competitive |
-| 🐙 GitHub | 500+ commits | Real projects, daily practice |
+| Platform    | Problems Solved | Focus Areas                   |
+| ----------- | --------------- | ----------------------------- |
+| 🟡 LeetCode | 200+            | Arrays, Strings, Linked List  |
+| 🟢 Codolio  | 320+            | Performance Tracking platform |
+| 🐙 GitHub   | 130+ commits    | Real projects, daily practice |
 
 [![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
+
+[![Codolio](https://img.shields.io/badge/Codolio_Profile-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/aditi_yadavz)
 
 ---
 
 ## 🗺️ My Journey
 
 ```
-2022  →  Started with HTML, CSS, JavaScript
-2023  →  Learned React · Built first SPAs
-2023  →  Picked up Node.js + Express · First full-stack app (Job Board)
-2024  →  Started grinding DSA seriously on LeetCode
-2024  →  Built AI Interview Platform · Most complex project yet
-2025  →  Exploring Docker, DevOps, System Design, AI APIs
-2026  →  Targeting top internships & placements 🎯
+Started with HTML, CSS, JavaScript
+Learning React
+Picked up Node.js + Express · First full-stack app (Job Board)
+Started grinding DSA seriously on LeetCode
+Building AI Interview Platform · Most complex project yet
+Exploring Docker, DevOps, System Design, AI APIs
+Targeting top internships & placements 🎯
 ```
 
 ---
@@ -158,7 +167,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 
-*📍 India · Open to remote internships and on/off campus placements*
+_📍 India · Open to remote internships and on/off campus placements_
 
 </div>
 
@@ -166,6 +175,6 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 
 <div align="center">
 
-*If you find any of my projects useful or interesting, a ⭐ on the repo means a lot!*
+_If you find any of my projects useful or interesting, a ⭐ on the repo means a lot!_
 
 </div>
