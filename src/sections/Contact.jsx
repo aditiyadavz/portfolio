@@ -2,8 +2,14 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FiSend, FiGithub, FiLinkedin, FiMail, FiMapPin } from "react-icons/fi";
 import toast, { Toaster } from "react-hot-toast";
+import emailjs from "@emailjs/browser";
 import SectionWrapper, { SectionHeader } from "../components/SectionWrapper";
 import { personalInfo } from "../data";
+
+// ─── EmailJS config ───────────────────────────────────────────────────────────
+const EMAILJS_SERVICE_ID = "service_ytdaesa";
+const EMAILJS_TEMPLATE_ID = "template_bd0nu2m";
+const EMAILJS_PUBLIC_KEY = "EpmlxVJgFLq3fbUv7";
 
 export default function Contact() {
   const [form, setForm] = useState({ name: "", email: "", subject: "", message: "" });
@@ -17,12 +23,29 @@ export default function Contact() {
       toast.error("Please fill all required fields.");
       return;
     }
+
     setSending(true);
-    // Replace with your EmailJS/Formspree integration
-    await new Promise((r) => setTimeout(r, 1500));
-    toast.success("Message sent! I'll get back to you soon 🚀");
-    setForm({ name: "", email: "", subject: "", message: "" });
-    setSending(false);
+    try {
+      await emailjs.send(
+        EMAILJS_SERVICE_ID,
+        EMAILJS_TEMPLATE_ID,
+        {
+          from_name: form.name,
+          from_email: form.email,
+          subject: form.subject || "New portfolio contact message",
+          message: form.message,
+          to_email: personalInfo.email,
+        },
+        { publicKey: EMAILJS_PUBLIC_KEY }
+      );
+      toast.success("Message sent! I'll get back to you soon 🚀");
+      setForm({ name: "", email: "", subject: "", message: "" });
+    } catch (err) {
+      console.error("EmailJS error:", err);
+      toast.error("Something went wrong. Please email me directly instead.");
+    } finally {
+      setSending(false);
+    }
   };
 
   const inputClass =

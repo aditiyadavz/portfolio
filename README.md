@@ -13,30 +13,30 @@ _"Building products that matter."_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-yadav04/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-vkhp-aexrgg90o-aditiyadavzs-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Full Stack Developer focused on scalable web applications and problem solving.
-Currently pursuing BTech in Computer Science.** with a genuine passion for building full-stack web applications from scratch. I care deeply about writing clean, purposeful code that solves real problems — not just completing assignments.
+I'm a **Full Stack Developer** & **BTech CSE student** who loves building products that solve real problems. 🚀
 
-Right now, I'm:
+- 🔨 Building end-to-end apps with **React, Node.js & MongoDB**
+- 🧠 Grinding **DSA problems** on LeetCode — daily, no days off
+- 🌱 Exploring **Docker, DevOps & AI-powered development**
+- 🎯 Actively targeting **2026–27 internships & placements**
 
-- 🔨 Building end-to-end products with **React, Node.js, and MongoDB**
-- 📚 Grinding **Data Structures & Algorithms** on LeetCode daily
-- 🌱 Exploring **DevOps, Docker, and AI-powered development**
-- 🎯 Actively targeting **2026–27 internships and placements**
-
-I believe the best developers build things people actually use. Every project I work on starts with a real problem and ends with a working product.
+> _"Code with purpose. Build with passion."_ ✨
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -45,6 +45,7 @@ I believe the best developers build things people actually use. Every project I 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -52,6 +53,7 @@ I believe the best developers build things people actually use. Every project I 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -64,53 +66,47 @@ I believe the best developers build things people actually use. Every project I 
 ## 🚀 Featured Projects
 
 ### 🎙️ AI Interview Platform
-
 > _Voice-based mock interviews with AI-powered feedback and performance analytics_
 
-A full-stack platform that simulates real job interviews. Users select a job role, answer voice-based questions, and receive instant AI feedback on their responses — along with a detailed scorecard and interview history to track improvement over time.
+A full-stack platform that simulates real job interviews. Users select a job role, answer voice-based questions, and receive instant AI feedback on clarity, relevance, and confidence — plus a detailed scorecard to track improvement.
 
-**What makes it different:** It doesn't just quiz you — it evaluates _how_ you answer, giving feedback on clarity, relevance, and confidence.
+`React` `Node.js` `MongoDB` `Express` `Google Gemini`
 
-`React` `Node.js` `MongoDB` `Express` `AI/NLP`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/alumni_network_platform.git)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/ai-interview-platform)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://ai-interview-platform-eta-green.vercel.app/)
 
 ---
 
 ### 💼 Job Board Platform
-
 > _Full-stack job marketplace with employer and candidate dashboards_
 
-A complete job portal where employers can post listings and candidates can apply, filter by role/location/salary, and track all their applications in one place. Built with JWT authentication, separate role-based dashboards, and a clean, fast UI.
+A complete job portal with role-based dashboards — employers post listings, candidates apply and track applications. Built with JWT auth, salary/location filters, and a clean fast UI.
 
 `Next.js` `Express.js` `PostgreSQL` `JWT Auth` `REST API`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/job_board.git)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/job_board)
 
 ---
 
 ### 🎓 Alumni Network Portal
-
 > _Community platform connecting students with alumni for mentorship and referrals_
 
-A social networking platform built for colleges — where students connect with alumni for guidance, referrals, and opportunities. Features include profile pages, connection requests, a live opportunity feed, and real-time messaging.
+A social networking platform for colleges — profile pages, connection requests, live opportunity feed, and real-time messaging between students and alumni.
 
 `React` `Node.js` `MongoDB` `Socket.io` `Express`
 
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/alumni_network_platform.git)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/alumni_network_platform)
 
 ---
 
 ### ✅ Smart To-Do App
+> _Feature-rich weekly task planner with priorities, categories & progress tracking_
 
-> _Feature-rich task manager with priorities, categories, and streak tracking_
+A productivity app with task categorization, priority levels, week view, progress ring, and dark mode — all persisted locally. Focused on a minimal, distraction-free UI.
 
-A productivity app with task categorization, deadline tracking, priority levels, and streak history — all persisted locally. Focused on a minimal, distraction-free UI.
+`HTML` `CSS` `JavaScript` `LocalStorage`
 
-`React` `Tailwind CSS` `LocalStorage`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/To_Do_List.git)
-
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditiyadavz/To_Do_List)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://aditiyadavz.github.io/To_Do_List/)
 
 ---
@@ -133,41 +129,42 @@ A productivity app with task categorization, deadline tracking, priority levels,
 
 ## 🧠 DSA & Problem Solving
 
-I believe strong fundamentals are what separate good developers from great ones. I solve problems consistently across platforms:
+I believe strong fundamentals separate good developers from great ones. Solving problems daily — no days off. 💪
 
-| Platform    | Problems Solved | Focus Areas                   |
-| ----------- | --------------- | ----------------------------- |
-| 🟡 LeetCode | 200+            | Arrays, Strings, Linked List  |
-| 🟢 Codolio  | 320+            | Performance Tracking platform |
-| 🐙 GitHub   | 130+ commits    | Real projects, daily practice |
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditi_yadavz?theme=dark&font=Poppins&ext=contest)
+
+</div>
+
+| Platform | Focus Areas |
+|---|---|
+| 🟡 LeetCode | Arrays, Strings, Linked Lists, Trees |
+| 🟢 Codolio | Performance tracking & consistency |
+| 🐙 GitHub | Real projects, daily commits |
 
 [![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditi_yadavz/)
-
 [![Codolio](https://img.shields.io/badge/Codolio_Profile-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codolio.com/profile/aditi_yadavz)
 
 ---
 
 ## 🗺️ My Journey
 
-<div align="center">
-
-```
-Started with HTML, CSS, JavaScript
-Learning React
-Picked up Node.js + Express · First full-stack app (Job Board)
-Started grinding DSA seriously on LeetCode
-Building AI Interview Platform · Most complex project yet
-Exploring Docker, DevOps, System Design, AI APIs
-Targeting top internships & placements 🎯
-```
-
-</div>
+| Year | Milestone |
+|------|-----------|
+| 2023 | 🌱 Started with HTML, CSS & JavaScript |
+| 2023 | ⚛️ Learned React — fell in love with frontend |
+| 2024 | 🔧 Picked up Node.js + Express · Built first full-stack app |
+| 2024 | 🧠 Started grinding DSA seriously on LeetCode |
+| 2025 | 🎙️ Built AI Interview Platform · Most complex project yet |
+| 2025 | 🐳 Exploring Docker, DevOps, System Design & AI APIs |
+| 2026 | 🎯 Targeting top internships & placements |
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations, collaborations, and opportunities. If you're a recruiter, a fellow developer, or someone with a cool project idea — reach out.
+I'm always open to conversations, collaborations, and opportunities. Recruiter, fellow dev, or just someone with a cool idea — reach out! 😊
 
 <div align="center">
 
@@ -175,14 +172,10 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiyadav20022024@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditiyadavz)
 
-_📍 India · Open to remote internships and on/off campus placements_
-
-</div>
+📍 _India · Open to remote internships and on/off campus placements_
 
 ---
 
-<div align="center">
-
-_If you find any of my projects useful or interesting, a ⭐ on the repo means a lot!_
+_If you find any of my projects useful, a ⭐ on the repo means a lot!_ 🙏
 
 </div>

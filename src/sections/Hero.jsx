@@ -3,6 +3,7 @@ import { TypeAnimation } from "react-type-animation";
 import { HiArrowDown, HiDownload } from "react-icons/hi";
 import { FiGithub, FiLinkedin, FiMail } from "react-icons/fi";
 import { personalInfo, roles } from "../data";
+import profilePhoto from "../assets/profile.jpeg";
 
 const typeSequence = roles.flatMap((r) => [r, 2000]);
 
@@ -12,7 +13,6 @@ export default function Hero() {
       id="hero"
       className="relative z-10 min-h-screen flex flex-col items-center justify-center px-6 pt-24 pb-16"
     >
-      {/* Floating tech labels */}
       {["React", "Node.js", "MongoDB", "Next.js", "DSA"].map((tech, i) => (
         <motion.div
           key={tech}
@@ -34,7 +34,20 @@ export default function Hero() {
       ))}
 
       <div className="max-w-4xl mx-auto text-center">
-        {/* Badge */}
+        <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.6 }}
+          className="relative w-32 h-32 md:w-40 md:h-40 mx-auto mb-8"
+        >
+          <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-accent via-accent2 to-accent3 blur-xl opacity-50 animate-pulse" />
+          <img
+            src={profilePhoto}
+            alt={personalInfo.name}
+            className="relative w-full h-full object-cover rounded-full border-2 border-accent/40 shadow-glow"
+          />
+        </motion.div>
+
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -47,18 +60,15 @@ export default function Hero() {
           </span>
         </motion.div>
 
-        {/* Name */}
         <motion.h1
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.1 }}
           className="font-display font-bold text-5xl md:text-7xl lg:text-8xl leading-tight mb-6"
         >
-          Hi, I'm{" "}
-          <span className="text-gradient">{personalInfo.name}</span>
+          Hi, I'm <span className="text-gradient">{personalInfo.name}</span>
         </motion.h1>
 
-        {/* Typewriter */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -74,7 +84,6 @@ export default function Hero() {
           />
         </motion.div>
 
-        {/* Bio */}
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -84,7 +93,6 @@ export default function Hero() {
           {personalInfo.bio}
         </motion.p>
 
-        {/* CTAs */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -94,11 +102,7 @@ export default function Hero() {
           <a href="#projects" className="btn-primary text-white flex items-center gap-2">
             View Projects <HiArrowDown className="text-sm" />
           </a>
-          <a
-            href={personalInfo.resumeUrl}
-            download
-            className="btn-outline flex items-center gap-2"
-          >
+          <a href={personalInfo.resumeUrl} download className="btn-outline flex items-center gap-2">
             <HiDownload /> Download Resume
           </a>
           <a href="#contact" className="btn-outline">
@@ -106,7 +110,6 @@ export default function Hero() {
           </a>
         </motion.div>
 
-        {/* Social icons */}
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -118,21 +121,13 @@ export default function Hero() {
             { icon: FiLinkedin, href: personalInfo.linkedin, label: "LinkedIn" },
             { icon: FiMail, href: `mailto:${personalInfo.email}`, label: "Email" },
           ].map(({ icon: Icon, href, label }) => (
-            <a
-              key={label}
-              href={href}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label={label}
-              className="w-10 h-10 glass rounded-full flex items-center justify-center text-dim hover:text-accent hover:border-accent/40 transition-all duration-300 hover:shadow-glow"
-            >
+            <a key={label} href={href} target="_blank" rel="noopener noreferrer" aria-label={label} className="w-10 h-10 glass rounded-full flex items-center justify-center text-dim hover:text-accent hover:border-accent/40 transition-all duration-300 hover:shadow-glow">
               <Icon size={18} />
             </a>
           ))}
         </motion.div>
       </div>
 
-      {/* Scroll indicator */}
       <motion.div
         className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
         animate={{ y: [0, 8, 0] }}
